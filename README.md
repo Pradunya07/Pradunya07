@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I currently work as a Infrastructure analyst. I'm invested in technologies related to kubernetes and openshift.
-- I love to develop stuff. I excel in both front end and backend development.
-- I'm interested in Games development and blockchain technology.
-- 👯 I’m looking to collaborate on Game dev and Blockchain projects.
-- 🏆 Winner of IEEE HAC & SIGHT Funding for Covid19.
+- 🔭 I currently work as a Infrastructure analyst. I'm invested in full stack development along with cloud and devops technologies like kubernetes and openshift.
+- I love to create stuff. I excel in both front end and backend development.
+- I'm interested in Games development as a hobby.
+- 👯 I’m looking always to collaborate on cool projects spanning sectors to help create something meaningful.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/pradunya-maladhari/">Linkedin</a> 
 - 😀 Pronouns: He/ His
 
