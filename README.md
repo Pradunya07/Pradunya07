@@ -1,10 +1,27 @@
-### Hi there 👋
+### Hi, I'm Pradunya 👋
 
+Software engineer at Barclays, building and operating cloud-native systems for
+core banking. Day to day that means running a large OpenShift platform (80+
+clusters) and writing the Python services that automate the work around it.
 
-- 🔭 I currently work as a Infrastructure analyst. I'm invested in full stack development along with cloud and devops technologies like kubernetes and openshift.
-- I love to create stuff. I excel in both front end and backend development.
-- I'm interested in Games development as a hobby.
-- 👯 I’m looking always to collaborate on cool projects spanning sectors to help create something meaningful.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/pradunya-maladhari/">Linkedin</a> 
-- 😀 Pronouns: He/ His
+Outside the day job I build LLM-powered applications — working across providers
+(Anthropic's Claude, Google's Gemini) rather than tied to one — and I develop
+with agentic tools like Claude Code.
+
+**What I work with**
+- **Platform & cloud:** OpenShift, Kubernetes, Docker, Helm, ArgoCD, AWS
+- **Backend:** Python (Flask), REST APIs, PostgreSQL, Redis, MongoDB
+- **AI:** Claude & Gemini APIs, multimodal prompting, structured JSON outputs
+
+**A few things I've built** (pinned below 👇)
+- **Furcarer** — a multimodal vision pipeline that turns images into structured
+  pet-health triage
+- **WhatsApp Service Marketplace** — a conversational booking backend on the Meta API
+
+Games development is my long-standing hobby — it's where I first started writing code.
+
+🌱 Currently open to backend / platform engineering roles across the EU.
+
+📫 [LinkedIn](https://www.linkedin.com/in/pradunya-maladhari/) · pradunya.maladhari@gmail.com
+**He/Him**
 
